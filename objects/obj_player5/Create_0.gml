@@ -1,0 +1,9 @@
+vSpd = 0
+jSpd = 50
+grav = 7
+jumping = false
+falling = false
+ducking = false
+termVelocity = 50
+jumpKey = keyboard_check_pressed(vk_space)
+duckKey = keyboard_check_pressed(vk_control)

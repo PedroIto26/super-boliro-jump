@@ -1,0 +1,6 @@
+draw_text(275,120, "parabens voce completou")
+draw_text(650,210, global.pontos)
+draw_text(400,300, "dias de mandato!")
+draw_text(310,550, "aperte Z para reiniciar")
+draw_text(130,625, "aperte ESC para retornar ao menu")
+draw_set_font(Font3)
